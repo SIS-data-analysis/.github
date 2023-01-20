@@ -53,9 +53,9 @@ We will proceed according to the outline below. Note that details on required ma
 
 | Date    | Description                                   | Due in class   |
 | :-----  | :-------------------------------------------- | :------------- |
-| Jan 17  | Introductions and Monty Hall                  |                |
-| Jan 24  | Programming in R                              | Draft resume   |
-| Jan 31  | Visualization 1: grammar of graphics          | PS 1           |
+| Jan 17  | [Intro and Monty Hall](https://github.com/SIS-data-analysis/01-Intro)                 |                |
+| Jan 24  | [R Programming cRash couRse](https://github.com/SIS-data-analysis/02-IntroR)                             | Draft resume   |
+| Jan 31  | Visualization 1: grammar of graphics          | [PS 1](https://github.com/SIS-data-analysis/Assessments/tree/main/PS1)           |
 | Feb 7   | Visualization 2: layers, facets, patchwork    | PS 2           |
 | Feb 14  | Wrangling 1: frames, tibbles, lists           | Presentation 1 |
 | Feb 21  | Wrangling 2: reshape, merge, append           |                |
