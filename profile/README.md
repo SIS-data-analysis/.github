@@ -39,7 +39,7 @@ Becoming proficient with these programs is a challenging, though necessary, part
 
 ## Assignments and grading
 Grades for the course will be assigned based on performance in the following areas:
-- **Problem sets and Deliverables (80%)**  
+- [**Problem sets and Deliverables (80%)**](https://github.com/SIS-data-analysis/Assessments)  
 Hands-on experience is the only way to build proficiency. So you will complete eight, equally-weighted exercises that ask you to put into practice what we cover in class. Problem sets (4) feature a series of discrete questions of varying degree of difficulty for you to answer. Deliverables (4) will include two recorded slide presentations, a poster presentation, and a codebook. I will distribute assignments in class, typically two weeks in advance of the due date, and/or link to them in this syllabus. Budget 10-15 hours to complete each exercise. While I encourage you to consult with classmates, your code and your written answers must be yours and yours alone. If someone else wrote or executed your code, it is not individual work and I will not grade it. If you sent your code or scripts to someone else, you did not participate earnestly in the process of individual work. You may not consult with anyone not currently enrolled in or teaching this course. 
 - **Analyst Portfolio (10%)**  
 At the end of the semester, you will submit an updated resume tailored to a position in data analytics along with an edited collection of your best work and mock answers to common questions in data analytic job interviews.
