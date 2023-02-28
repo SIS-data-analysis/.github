@@ -59,7 +59,7 @@ We will proceed according to the outline below. Note that details on required ma
 | Feb 7   | [Visualization 2: layers, facets, patchwork](https://github.com/SIS-data-analysis/04-Viz2)    | [PS 2](https://github.com/SIS-data-analysis/Assessments/tree/main/PS2)           |
 | Feb 14  | [Wrangling 1: frames, tibbles, lists](https://github.com/SIS-data-analysis/05-wrangling1)           | [Presentation 1](https://github.com/SIS-data-analysis/Assessments/tree/main/Presentation1) |
 | Feb 21  | [Wrangling 2: reshape, merge, append](https://github.com/SIS-data-analysis/06-wrangling2)           |                |
-| Feb 28  | Wrangling 3: all about variables              | [PS 3](https://github.com/SIS-data-analysis/Assessments/tree/main/PS3)           |
+| Feb 28  | [Wrangling 3: all about variables](https://github.com/SIS-data-analysis/07-wrangling3)              | [PS 3](https://github.com/SIS-data-analysis/Assessments/tree/main/PS3)           |
 | Mar 7   | Wrangling round-up                            | Updated resume |
 | Mar 21  | Markdown 1: code while you write              | Codebook       |
 | Mar 28  | Markdown 2: slide decks                       | PS 4           |
