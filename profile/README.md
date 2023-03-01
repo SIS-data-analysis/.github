@@ -3,7 +3,7 @@
 Professor Austin Hart (ahart@american.edu)  
 
 Office: SIS 345  
-Office hours:	M/Th 2:00-4:00pm, SIS 345
+Office hours:	M/Tu/Th 2:00-4:00pm, SIS 345
 
 Meetings: Tuesdays, 5:30-8:00pm  
 Classroom: Kerwin Hall ST01 computer lab
@@ -16,7 +16,7 @@ Students who complete this course will be proficient junior analysts. They will 
 - build, clean, and manipulate quantitative data
 - generate professional data visualizations
 - present data-driven research to a professional audience
-- produce clear, efficient code in the R programming language
+- write clear, efficient, reproducible code in the R programming language
 
 ## Expectations and workload
 This is an advanced graduate course. The material is challenging, and the workload is intense. However, my expectations for the course and of your performance are appropriate to your standing as professionals and aspiring professionals in a top graduate program. 
@@ -49,7 +49,7 @@ Professionalism is a critical part of success in the data analytics profession. 
 Please take note of the assignment due dates and plan accordingly. Except in truly unusual and unavoidable circumstances I will not accept late work.
 
 ## Schedule Overview
-We will proceed according to the outline below. Note that details on required materials for each week in folders on this github site. 
+We will proceed according to the outline below. Note that details on required materials for each week are available in the repositories linked below (and available on our github site). 
 
 | Date    | Description                                   | Due in class   |
 | :-----  | :-------------------------------------------- | :------------- |
@@ -77,7 +77,7 @@ I strongly encourage you to drop in during office hours or set up a meeting on a
 Standards of academic conduct are set forth in the University's [Academic Integrity Code](https://www.american.edu/policies/students/academic-integrity-code.cfm). By registering for classes, you have acknowledged your awareness of the Academic Integrity Code, and you are obliged to become familiar with your rights and responsibilities as defined by the Code. Violations of the Academic Integrity Code will not be treated lightly, and disciplinary actions will be taken should such violations occur. Please see me if you have any questions about the academic violations described in the Code in general or as they relate to particular requirements for this course.
 
 ## Background knowledge
-A background in introductory statistics—equivalent to SIS-600—is necessary for this course. So I will assume familiarity with descriptive statistics (e.g. means, standard deviations), hypothesis testing (through linear regression), and basic statistical computing (e.g. R or Stata).
+A background in introductory statistics—equivalent to SIS-600—is necessary for this course. So I will assume familiarity with descriptive statistics (e.g., means, standard deviations), hypothesis testing (through linear regression), and basic statistical computing (e.g., R or Stata).
 
 ## Snow days, COVID, and random apocalypses
 If we're unable to meet for our regular class time due to a University closure (e.g., snow day) or something on my end (e.g., I get COVID), we will hold class virtually on Zoom. If you are sick (e.g., you get COVID), do not come to our cramped lab. Join virtually instead. Let me know that you'll be virtual and contact a classmate to dial you in for class (I can set you up with someone if you're not sure who to ask). 
