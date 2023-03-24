@@ -63,7 +63,7 @@ We will proceed according to the outline below. Note that details on required ma
 | Mar 7   | [Wrangling round-up](https://github.com/SIS-data-analysis/08-codebooks)                      | Updated resume |
 | Mar 21  | [Markdown 1: code while you write](https://github.com/SIS-data-analysis/09-markdown)         | [Codebook](https://github.com/SIS-data-analysis/Assessments/tree/main/Codebook)       |
 | Mar 28  | [Markdown 2: slide decks](https://github.com/SIS-data-analysis/10-markdown-slides)           | [PS 4](https://github.com/SIS-data-analysis/Assessments/tree/main/PS4)           |
-| Apr 4   | Careers in analytics                          | Presentation 2 |
+| Apr 4   | Careers in analytics                          | [Presentation 2](https://github.com/SIS-data-analysis/Assessments/tree/main/Presentation2) |
 | Apr 11  | Analysis 1: describe distributions            |                |
 | Apr 18  | Analysis 2: describe relationships            | Poster         |
 | Apr 25  | Analysis round-up                             | ExCr memo      |
