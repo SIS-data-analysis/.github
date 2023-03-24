@@ -55,14 +55,14 @@ We will proceed according to the outline below. Note that details on required ma
 | :-----  | :-------------------------------------------- | :------------- |
 | Jan 17  | [Intro and Monty Hall](https://github.com/SIS-data-analysis/01-Intro)                 |                |
 | Jan 24  | [R Programming cRash couRse](https://github.com/SIS-data-analysis/02-IntroR)                             | Draft resume   |
-| Jan 31  | [Visualization 1: grammar of graphics](https://github.com/SIS-data-analysis/03-Viz1)          | [PS 1](https://github.com/SIS-data-analysis/Assessments/tree/main/PS1)           |
-| Feb 7   | [Visualization 2: layers, facets, patchwork](https://github.com/SIS-data-analysis/04-Viz2)    | [PS 2](https://github.com/SIS-data-analysis/Assessments/tree/main/PS2)           |
-| Feb 14  | [Wrangling 1: frames, tibbles, lists](https://github.com/SIS-data-analysis/05-wrangling1)           | [Presentation 1](https://github.com/SIS-data-analysis/Assessments/tree/main/Presentation1) |
-| Feb 21  | [Wrangling 2: reshape, merge, append](https://github.com/SIS-data-analysis/06-wrangling2)           |                |
-| Feb 28  | [Wrangling 3: all about variables](https://github.com/SIS-data-analysis/07-wrangling3)              | [PS 3](https://github.com/SIS-data-analysis/Assessments/tree/main/PS3)           |
+| Jan 31  | [Visualization 1: grammar of graphics](https://github.com/SIS-data-analysis/03-Viz1)         | [PS 1](https://github.com/SIS-data-analysis/Assessments/tree/main/PS1)           |
+| Feb 7   | [Visualization 2: layers, facets, patchwork](https://github.com/SIS-data-analysis/04-Viz2)   | [PS 2](https://github.com/SIS-data-analysis/Assessments/tree/main/PS2)           |
+| Feb 14  | [Wrangling 1: frames, tibbles, lists](https://github.com/SIS-data-analysis/05-wrangling1)    | [Presentation 1](https://github.com/SIS-data-analysis/Assessments/tree/main/Presentation1) |
+| Feb 21  | [Wrangling 2: reshape, merge, append](https://github.com/SIS-data-analysis/06-wrangling2)    |                |
+| Feb 28  | [Wrangling 3: all about variables](https://github.com/SIS-data-analysis/07-wrangling3)       | [PS 3](https://github.com/SIS-data-analysis/Assessments/tree/main/PS3)           |
 | Mar 7   | [Wrangling round-up](https://github.com/SIS-data-analysis/08-codebooks)                      | Updated resume |
-| Mar 21  | [Markdown 1: code while you write](https://github.com/SIS-data-analysis/09-markdown)              | [Codebook](https://github.com/SIS-data-analysis/Assessments/tree/main/Codebook)       |
-| Mar 28  | Markdown 2: slide decks                       | [PS 4](https://github.com/SIS-data-analysis/Assessments/tree/main/PS4)           |
+| Mar 21  | [Markdown 1: code while you write](https://github.com/SIS-data-analysis/09-markdown)         | [Codebook](https://github.com/SIS-data-analysis/Assessments/tree/main/Codebook)       |
+| Mar 28  | [Markdown 2: slide decks](https://github.com/SIS-data-analysis/10-markdown-slides)           | [PS 4](https://github.com/SIS-data-analysis/Assessments/tree/main/PS4)           |
 | Apr 4   | Careers in analytics                          | Presentation 2 |
 | Apr 11  | Analysis 1: describe distributions            |                |
 | Apr 18  | Analysis 2: describe relationships            | Poster         |
