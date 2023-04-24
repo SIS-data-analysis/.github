@@ -66,8 +66,8 @@ We will proceed according to the outline below. Note that details on required ma
 | Apr 4   | Careers in analytics                          | [Presentation 2](https://github.com/SIS-data-analysis/Assessments/tree/main/Presentation2) |
 | Apr 11  | [Analysis 1: linear associations](https://github.com/SIS-data-analysis/12-analysis)            |                |
 | Apr 18  | [Analysis 2: advanced topics](https://github.com/SIS-data-analysis/12-analysis)            | [Poster](https://github.com/SIS-data-analysis/Assessments/tree/main/Poster)         |
-| Apr 25  | Analysis round-up                             | ExCr memo      |
-| May 9   | Submit Analyst Porfolio                       | Portfolio      |
+| Apr 25  | Analysis round-up                             | [ExCr memo](https://github.com/SIS-data-analysis/Assessments/tree/main/Memo)      |
+| May 9   | Submit Analyst Porfolio                       | [Portfolio](https://github.com/SIS-data-analysis/Assessments/tree/main/Porfolio)      |
   
 
 ## Contacting me
