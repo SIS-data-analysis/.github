@@ -1,12 +1,20 @@
-# SIS-750: Data Analysis
+# SIS-750-00X: Data Analysis
+2025 Spring
 
-Professor Austin Hart (ahart@american.edu)  
 
+
+## Course Information
+
+### Instructor   
+**Austin Hart** (ahart@american.edu)  
+Office hours:	M/Tu 2:00-4:00pm  
 Office: SIS 345  
-Office hours:	M/Tu/Th 2:00-4:00pm, SIS 345
+Website: <https://austin-hart.netlify.app>  
+Github: <https://github.com/austin-hart-pols>  
 
-Meetings: Tuesdays, 5:30-8:00pm  
-Classroom: Kerwin Hall ST01 computer lab
+### Class Schedule  
+Location: Anderson Computing Complex B-14
+Time: Tu 5:30-8:00pm
 
 ## Overview
 This course introduces the art and practice of data analysis. It focuses on the preparation of data (data wrangling or munging), professional presentation of data and analysis, and the process of producing scalable, replicable work (programming). More than just learning the requisite code, I emphasize the professional outputs associated with a career in data analysis. This semester is a chance to get your hands dirty in the world of analysis and explore the new and challenging puzzles you face every day in this profession.
