@@ -1,4 +1,4 @@
-![](sislogo.png)
+![](https://github.com/SIS-data-analysis/.github/blob/main/profile/sislogo.png)
 
 # SIS-750: Data Analysis  
 
