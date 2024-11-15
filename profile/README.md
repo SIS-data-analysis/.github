@@ -18,6 +18,10 @@ All of the course material is available here on our `github` page: <https://gith
 The course syllabus is available for download. I will distribute a version in hard copy during the first class meeting. 
 
 
+### Overview
+
+This course introduces the art and practice of data analysis. It focuses on the preparation of data (data wrangling), professional presentation of data and analysis, and the process of producing scalable, replicable work (statistical and literate programming). More than just learning the requisite code, I emphasize the professional outputs associated with a career in data analysis. This semester is a chance to get your hands dirty in the world of analysis and explore the new and challenging puzzles you face every day in this profession.
+
 ### Expectations and workload
 This is an advanced graduate course. The material is challenging, and the workload is intense. However, my expectations for the course and of your performance are appropriate to your standing as professionals and aspiring professionals in a top graduate program. 
 
@@ -38,9 +42,9 @@ We will proceed according to the outline below. The link will take you to the re
 | 7       | Visualization with `ggplot2`             |
 | 8       | Analytics 1: statistical relationships   |
 | 9       | Communicating with slide decks           |
-| 10      | Speaking data 2: associations            |
-| 11      | Visualization and Analytics 2            |
-| 12      | Academic posters                         |
+| 10      | Analytics 2: associations                |
+| 11      | Visualization and Analytics 3            |
+| 12      | Speaking data 2: Academic posters        |
 | 13      | Career Day                               |
 | 14      | Wrapping up and looking ahead            |
 | FINALS  | Submit Analyst Portfolio                 |
