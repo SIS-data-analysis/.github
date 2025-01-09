@@ -13,7 +13,7 @@ My github: <https://github.com/austin-hart-pols>
 ### Welcome  
 All of the course material is available here on our `github` page: <https://github.com/SIS-data-analysis>. To access the page you will need to register for a `github` account. Share your username with me, and I will give you member access.
 
-The course syllabus is available for download. I will distribute a version in hard copy during the first class meeting. 
+The course syllabus is available for [download](https://github.com/SIS-data-analysis/Syllabus/blob/main/syllabus-750-spring25.pdf). I will distribute a version in hard copy during the first class meeting. 
 
 
 ### Overview  
