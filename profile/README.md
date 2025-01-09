@@ -50,25 +50,25 @@ Work submitted after the deadline is docked 20% per day late. Work that is 5 or 
 ### Schedule Overview
 We will proceed according to the outline below. The links will take you to the repository for each session. You should fork and clone the relevant repository at the start of class each week. 
 
-| Week    | Topics                                   |
-| :-----  | :--------------------------------------- |
-| Setup   | Getting started                          |
-| Jan 15  | Introductions, Monty Hall, Setup         |
-| Jan 22  | Fundamentals of programming              |
-| Jan 29  | Data wrangling/cleaning                  |
-| Feb 5   | Building datasets                        |
-| Feb 12  | Visualization 1                          |
-| Feb 19  | Visualization 2                          |
-| Feb 26  | Analysis 1                               |
-| Mar 5   | Analysis 2                               |
-| Mar 12  | Spring Break                             |
-| Mar 19  | Slide decks                              |
-| Mar 26  | Academic posters                         |
-| Apr 2   | Career day                               |
-| Apr 9   | Presentations                            |
-| Apr 16  | Scaling up with functions                |
-| Apr 23  | Wrapping up and looking ahead            |
-| Apr 30  | Submit Analyst Portfolio                 |
+| Week    | Topics                                   | Due        |
+| :-----  | :--------------------------------------- | :--------- |
+| Setup   | Getting started                          |            |
+| Jan 15  | Introductions, Monty Hall, Setup         |            |
+| Jan 22  | Fundamentals of programming              |            |
+| Jan 29  | Data wrangling/cleaning                  | PS 1       |
+| Feb 5   | Building datasets                        |            |
+| Feb 12  | Visualization 1                          | PS 2       |
+| Feb 19  | Visualization 2                          |            |
+| Feb 26  | Analysis 1                               | PS 3       |
+| Mar 5   | Analysis 2                               |            |
+| Mar 12  | Spring Break                             |            |
+| Mar 19  | Slide decks                              | PS 4       |
+| Mar 26  | Academic posters                         |            |
+| Apr 2   | Career day                               |            |
+| Apr 9   | Presentations                            | Slides     |
+| Apr 16  | Scaling up with functions                | Codebook or poster |
+| Apr 23  | Wrapping up and looking ahead            |            |
+| Apr 30  | Finals                                   | Portfolio          |
 
 
 ### Making the most of our time
