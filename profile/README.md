@@ -54,7 +54,7 @@ We will proceed according to the outline below. The links will take you to the r
 | :-----  | :--------------------------------------- | :--------- |
 | Setup   | [Getting started](https://github.com/SIS-data-analysis/00-getting-started)                         |            |
 | Jan 15  | [Introductions, Monty Hall, Setup](https://github.com/SIS-data-analysis/01-monty-hall)         |            |
-| Jan 22  | Fundamentals of programming              |            |
+| Jan 22  | [Fundamentals of programming](https://github.com/SIS-data-analysis/02-programming)              |            |
 | Jan 29  | Data wrangling/cleaning                  | PS 1       |
 | Feb 5   | Building datasets                        |            |
 | Feb 12  | Visualization 1                          | PS 2       |
