@@ -57,7 +57,7 @@ We will proceed according to the outline below. The links will take you to the r
 | Jan 22  | [Fundamentals of programming](https://github.com/SIS-data-analysis/02-programming)              |            |
 | Jan 29  | [Data wrangling/cleaning](https://github.com/SIS-data-analysis/03-wrangling)                  | PS 1       |
 | Feb 5   | Building datasets                        |            |
-| Feb 12  | Visualization 1                          | PS 2       |
+| Feb 12  | Visualization 1                          | [PS 2](https://github.com/SIS-data-analysis/PS2)       |
 | Feb 19  | Visualization 2                          |            |
 | Feb 26  | Analysis 1                               | PS 3       |
 | Mar 5   | Analysis 2                               |            |
