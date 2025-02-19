@@ -56,9 +56,9 @@ We will proceed according to the outline below. The links will take you to the r
 | Jan 15  | [Introductions, Monty Hall, Setup](https://github.com/SIS-data-analysis/01-monty-hall)         |            |
 | Jan 22  | [Fundamentals of programming](https://github.com/SIS-data-analysis/02-programming)              |            |
 | Jan 29  | [Data wrangling/cleaning](https://github.com/SIS-data-analysis/03-wrangling)                  | PS 1       |
-| Feb 5   | Building datasets                        |            |
-| Feb 12  | Visualization 1                          | [PS 2](https://github.com/SIS-data-analysis/PS2)       |
-| Feb 19  | Visualization 2                          |            |
+| Feb 5   | [Building datasets](https://github.com/SIS-data-analysis/04-data-builds)                        |            |
+| Feb 12  | xSNOWDAYx                         | [PS 2](https://github.com/SIS-data-analysis/PS2)       |
+| Feb 19  | [Visualization](https://github.com/SIS-data-analysis/06-viz)                          |            |
 | Feb 26  | Analysis 1                               | PS 3       |
 | Mar 5   | Analysis 2                               |            |
 | Mar 12  | Spring Break                             |            |
