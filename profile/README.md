@@ -65,8 +65,8 @@ We will proceed according to the outline below. The links will take you to the r
 | Mar 19  | Slide decks                              | PS 4       |
 | Mar 26  | Academic posters                         |            |
 | Apr 2   | Career day                               |            |
-| Apr 9   | Presentations                            | Slides     |
-| Apr 16  | Scaling up with functions                | Codebook or poster |
+| Apr 9   | Presentations                            | [Slides](https://github.com/SIS-data-analysis/deliverables/blob/main/slides.md)     |
+| Apr 16  | Scaling up with functions                | [Codebook](https://github.com/SIS-data-analysis/deliverables/blob/main/codebook.md) or [Poster](https://github.com/SIS-data-analysis/deliverables/blob/main/poster.md) |
 | Apr 23  | Wrapping up and looking ahead            |            |
 | Apr 30  | Finals                                   | Portfolio          |
 
