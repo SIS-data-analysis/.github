@@ -60,7 +60,7 @@ We will proceed according to the outline below. The links will take you to the r
 | Feb 12  | xSNOWDAYx                         | [PS 2](https://github.com/SIS-data-analysis/PS2)       |
 | Feb 19  | [Visualization](https://github.com/SIS-data-analysis/06-viz)                          |            |
 | Feb 26  | [Analysis 1](https://github.com/SIS-data-analysis/07-analysis1)                               | [PS 3](https://github.com/SIS-data-analysis/PS3)       |
-| Mar 5   | Analysis 2                               |            |
+| Mar 5   | [Analysis 2](https://github.com/SIS-data-analysis/08-analysis2)                               |            |
 | Mar 12  | Spring Break                             |            |
 | Mar 19  | Slide decks                              | PS 4       |
 | Mar 26  | Academic posters                         |            |
