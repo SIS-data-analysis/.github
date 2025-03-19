@@ -62,7 +62,7 @@ We will proceed according to the outline below. The links will take you to the r
 | Feb 26  | [Analysis 1](https://github.com/SIS-data-analysis/07-analysis1)                               | [PS 3](https://github.com/SIS-data-analysis/PS3)       |
 | Mar 5   | [Analysis 2](https://github.com/SIS-data-analysis/08-analysis2)                               |            |
 | Mar 12  | Spring Break                             |            |
-| Mar 19  | Slide decks                              | [PS 4](https://github.com/SIS-data-analysis/PS4)       |
+| Mar 19  | [Slide decks](https://github.com/SIS-data-analysis/09-slides)                              | [PS 4](https://github.com/SIS-data-analysis/PS4)       |
 | Mar 26  | Academic posters                         |            |
 | Apr 2   | Career day                               |            |
 | Apr 9   | Presentations                            | [Slides](https://github.com/SIS-data-analysis/deliverables/blob/main/slides.md)     |
