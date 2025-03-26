@@ -64,7 +64,7 @@ We will proceed according to the outline below. The links will take you to the r
 | Mar 5   | [Analysis 2](https://github.com/SIS-data-analysis/08-analysis2)                               |            |
 | Mar 12  | Spring Break                             |            |
 | Mar 19  | [Slide decks](https://github.com/SIS-data-analysis/09-slides)                              | [PS 4](https://github.com/SIS-data-analysis/PS4)       |
-| Mar 26  | Academic posters                         |            |
+| Mar 26  | [Academic posters](https://github.com/SIS-data-analysis/10-posters-codebooks)                         |            |
 | Apr 2   | Career day                               |            |
 | Apr 9   | Presentations                            | [Slides](https://github.com/SIS-data-analysis/deliverables/blob/main/slides.md)     |
 | Apr 16  | Scaling up with functions                | [Codebook](https://github.com/SIS-data-analysis/deliverables/blob/main/codebook.md) or [Poster](https://github.com/SIS-data-analysis/deliverables/blob/main/poster.md) |
