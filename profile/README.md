@@ -31,6 +31,7 @@ I will post handouts, data, R scripts, and links to reading materials on our cou
 - Claus Wilke's foundational text on visualization, [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - Winston Chang's [Cookbook for R](http://www.cookbook-r.com/)
 - A basic introduction to R, my own [Survival Guide](https://austin-hart-pols.github.io/SurvivalGuide/)
+- Annie Wang's [indespensible career guide](https://annie-3.gitbook.io/jobs-proganalytics)
 
 You need regular and reliable access to R and RStudio IDE, and I urge you to bring your laptop to class. These programs work across platforms and are available for free. You will also need to connect RStudio with Github, a cloud-based `Git` repository for code sharing and collaboration (i.e., version control). You can find installation instructions in the Getting Started repository. 
 
