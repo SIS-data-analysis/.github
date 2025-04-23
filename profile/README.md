@@ -69,7 +69,7 @@ We will proceed according to the outline below. The links will take you to the r
 | Apr 9   | Presentations                            | [Slides](https://github.com/SIS-data-analysis/deliverables/blob/main/slides.md)     |
 | Apr 16  | [Scaling up with functions](https://github.com/SIS-data-analysis/13-functions)                | [Codebook](https://github.com/SIS-data-analysis/deliverables/blob/main/codebook.md) or [Poster](https://github.com/SIS-data-analysis/deliverables/blob/main/poster.md) |
 | Apr 23  | Wrapping up and looking ahead            |            |
-| Apr 30  | Finals                                   | Portfolio          |
+| Apr 30  | Finals                                   | [Portfolio](https://github.com/SIS-data-analysis/deliverables/blob/main/Portfolio.md)          |
 
 
 ### Making the most of our time
