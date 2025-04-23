@@ -67,7 +67,7 @@ We will proceed according to the outline below. The links will take you to the r
 | Mar 26  | [Academic posters](https://github.com/SIS-data-analysis/10-posters-codebooks)                         |            |
 | Apr 2   | Career day: [zoom link](https://american.zoom.us/j/94647359410)                               |            |
 | Apr 9   | Presentations                            | [Slides](https://github.com/SIS-data-analysis/deliverables/blob/main/slides.md)     |
-| Apr 16  | Scaling up with functions                | [Codebook](https://github.com/SIS-data-analysis/deliverables/blob/main/codebook.md) or [Poster](https://github.com/SIS-data-analysis/deliverables/blob/main/poster.md) |
+| Apr 16  | [Scaling up with functions](https://github.com/SIS-data-analysis/13-functions)                | [Codebook](https://github.com/SIS-data-analysis/deliverables/blob/main/codebook.md) or [Poster](https://github.com/SIS-data-analysis/deliverables/blob/main/poster.md) |
 | Apr 23  | Wrapping up and looking ahead            |            |
 | Apr 30  | Finals                                   | Portfolio          |
 
